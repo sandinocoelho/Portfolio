@@ -3,8 +3,8 @@
   "authors": [
     "sandino <sandinoandroid@gmail.com>"
   ],
-  "description": "",
-  "main": "",
+  "description": "meu portfolio",
+  "main": "index.html",
   "license": "MIT",
   "homepage": "",
   "ignore": [
